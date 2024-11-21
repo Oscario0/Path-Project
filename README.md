@@ -15,3 +15,8 @@
  ## Photo Gallery
  ## - Easy Navigation
  ## - Easy organization of items
+
+# Current Idea
+ ## A shopping-like environment with multiple easy selections, going back and forth on each component with ease. Enable checkout and tracking system. 
+  ## Maybe fragrances or clothes. Maybe money transfer. Good color coordination to keep the experience focused on navigating. A single page with pop-up windows for help.
+   
